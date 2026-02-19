@@ -1,1 +1,2 @@
-""" pip install pymunk """
+pip install pygame
+pip install pymunk
